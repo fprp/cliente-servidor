@@ -1,16 +1,17 @@
-#### Projeto
+# Projeto
 Esse é uma aplicação simples demonstando o funcionamendo do tipo cliente-servidor.
 
-### Comandos
+## Comandos
 Para rodar o projeto, utilizar `npm run start` no terminal com a pasta do diretório. 
 
-## Funcionalidades
+### Funcionalidades
+Aqui vou descrever o que o projeto possui.
 
-# Index
+#### Index
 Ao rodar o projeto, irá abrir na página index.
 
-# Sign-in
+#### Sign-in
 A pagina /sign-in mostrará um sistema de login.
 
-# Home
+#### Home
 Após fazer o login, irá abrir a página home.
